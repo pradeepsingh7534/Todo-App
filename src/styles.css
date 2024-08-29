@@ -1,0 +1,45 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .styleInputBox {
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .styleInput {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 3px;
+  }
+  
+  .styleButton {
+    background-color: #9417e2;
+    width: auto;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+  }
+  
+  .styleTodoItem {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 450px;
+    height: 60px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
